@@ -20,13 +20,13 @@
 #### ***Software***
 -	Microchip MPLAB® X IDE (v5.30 or later)
 -	Microchip MPLAB XC32 Compiler
--	TwinCAT EtherCAT Master v3.1 or later. Please visit [Beckhoff](www.Beckhoff.com) to download the software.
--	Slave Stack Code (SSC) v5.12 or later. Please visit [Beckhoff](www.Beckhoff.com) to download the software.
+-	TwinCAT EtherCAT Master v3.1 or later. Please visit [Beckhoff](https://www.Beckhoff.com) to download the software.
+-	Slave Stack Code (SSC) v5.12 or later. Please visit [Beckhoff](https://www.Beckhoff.com) to download the software.
 
 #### ***Hardware***
 -	EVB-LAN925x-SAMD51
 -	PICkit 4
 
 ## **Support**
-To submit a support ticket request, please contact [Microchip Support](support.microchip.com)
+To submit a support ticket request, please contact [Microchip Support](https://support.microchip.com)
 </div>
